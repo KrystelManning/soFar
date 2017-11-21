@@ -1,0 +1,17 @@
+page-welcome {
+ #welcome{
+    ion-navbar{
+         background: color($colors, primary );
+     }
+     background:color($colors, secondary );   
+     h1{
+        font-size:20%;
+        margin-top:10%;
+    }
+    .margin-Top{
+        margin-top:5%
+    }
+}
+ 
+}
+
